@@ -1,0 +1,16 @@
+msg_rapide: "§eCalme toi ! Tu envois c'est message trop rapidement !"
+#Permet d'éviter les spammeur, tu a juste a changer le message si tu le souhaite.
+
+tp_reussi: "Bienvenue dans le hub !"
+#Quand la teleportation a reussi, ce message sera affichier
+
+tp_chargement: "Tu va etre téléporter dans {temp} au hub"
+#Permet de changer le message de téléportation au hub, amuse toi a le changer.
+
+
+temp: 10
+#Temp en seconde, il te suffit juste de choisir un nombre sans toucher au "temp".
+
+#//SI TU NE SOUHAITE AVOIR AUCUN MESSAGE, IL SUFFIT DE RIEN METTRE DANS LES "", CELA DIRA A LA CONSOLE DE NE RIEN METTRE
+
+#Ne changez surtout pas les variable (Temp, tp_reussi,tp_chargement.
