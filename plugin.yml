@@ -1,10 +1,9 @@
 ---
 name: TPHub
-version: 0.5.4
+version: 1.0.0
 main: Shisui\TPHub\Main
 api: [3.0.0]
 load: POSTWORLD
-
 author: Shisui
 website: https://discord.extoria.fr
 
