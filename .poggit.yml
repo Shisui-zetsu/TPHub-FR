@@ -1,6 +1,20 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Shisui-zetsu/TPHubCooldown-FR
+
+
+
+
+
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/froNetwork/HubDelay
+
 build-by-default: true
+
 branches:
-- main
-projects: [TPHub]
+
+- master
+
+projects:
+
+  TPHub:
+
+    path: ""
+
 ...
