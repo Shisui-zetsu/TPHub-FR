@@ -1,0 +1,14 @@
+---
+name: TPHub
+version: 0.5.4
+main: Shisui\TPHub\Main
+api: [3.0.0]
+load: POSTWORLD
+
+author: Shisui
+website: https://discord.extoria.fr
+
+commands:
+  hub:
+    description: "Téléporte au hub avec une simple prise en main"
+...
